@@ -1,0 +1,7 @@
+*.swp
+*.pyc
+
+build/
+dist/
+fleetfmt.egg-info/
+.eggs/
